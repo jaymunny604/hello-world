@@ -1,2 +1,9 @@
+#
 # hello-world
-My first GitHub code.
+#
+
+My first GitHub "readme" file.
+
+#
+# EoF
+#
